@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdoc_site=self.webpackChunkdoc_site||[]).push([[3250],{709:e=>{e.exports=JSON.parse('{"title":"CUDA101","description":"5 minutes to learn the most important Docusaurus concepts.","slug":"/category/cuda101","permalink":"/Doc-site/docs/category/cuda101","navigation":{"next":{"title":"CUDA-101","permalink":"/Doc-site/docs/CUDA101/cuda101"}}}')}}]);

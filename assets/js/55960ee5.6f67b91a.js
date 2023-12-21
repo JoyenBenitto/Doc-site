@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdoc_site=self.webpackChunkdoc_site||[]).push([[4121],{8070:e=>{e.exports=JSON.parse('[{"label":"cuda","permalink":"/Doc-site/docs/tags/cuda","count":8},{"label":"index","permalink":"/Doc-site/docs/tags/index","count":8}]')}}]);
