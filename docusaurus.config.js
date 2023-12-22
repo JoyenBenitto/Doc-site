@@ -78,7 +78,7 @@ const config = {
       // Replace with your project's social card
       colorMode: {
         defaultMode: 'dark',
-        disableSwitch: false,
+        disableSwitch: true,
         respectPrefersColorScheme: false,
       },
       navbar: {
@@ -90,7 +90,15 @@ const config = {
             position: 'left',
             label: 'Resources',
           },
+          {
+            href: 'https://joyenbenitto.com',
+            position: 'right',
+            label: 'Portfolio',
+            
+          },
         ],
+
+
       },
       prism: {
         theme: prismThemes.github,

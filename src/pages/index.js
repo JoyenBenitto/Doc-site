@@ -14,6 +14,7 @@ function HomepageHeader() {
   );
 }
 
+/*
 function Footer() {
   const {siteConfig} = useDocusaurusContext();
   return (
@@ -45,6 +46,8 @@ function Footer() {
   );
 }
 
+*/
+
 export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
@@ -55,12 +58,13 @@ export default function Home() {
       <main className='font-fira prose prose-invert'>
         <div className='absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2'>
           <h1 className='pb-2'>Hello👋🏼</h1>
-          <p> Hello welcome to the resource site!<br />
-           here you will find resources of the workshops and notes and documentations of some of the packages that I have created</p>
+          <p>Hello welcome to the resource site!<br />
+           here you will find resources of the workshops and notes and documentations of some of the packages that I have created.</p>
+          <p>Click on the button to navigate back to my portfolio site.<br /></p>
+          <a href='https://joyenbenitto.com'><button className='border p-3 rounded-lg'>Main website</button></a>
         </div>
       
       </main>
-      <Footer />
     </Layout>
   );
 }

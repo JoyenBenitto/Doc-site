@@ -40,7 +40,11 @@ body{
 
 .navbar{
   background-color: #10151D;
-  @apply font-fira font-medium leading-relaxed list-outside border-b border-opacity-25 p-5 
+  @apply font-fira font-medium leading-relaxed 
+  list-outside 
+  border-b 
+  border-opacity-25 
+
 }
 
 .container{
